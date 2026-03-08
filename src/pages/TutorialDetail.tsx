@@ -93,8 +93,8 @@ export default function TutorialDetail() {
           className="mb-20 flex flex-col sm:flex-row items-center justify-between gap-8 pb-12 border-b border-slate-100"
         >
           <div className="flex items-center gap-6">
-            <div className="w-16 h-16 bg-slate-50 overflow-hidden rounded-full">
-              <img src="https://picsum.photos/seed/author/100/100" alt="Autor" className="w-full h-full object-cover grayscale" referrerPolicy="no-referrer" />
+            <div className="w-16 h-16 bg-slate-50 overflow-hidden rounded-full border border-slate-100 flex items-center justify-center p-2">
+              <img src="https://web2.itnahodinu.cz/karty/web/LOGO1.webp" alt="Autor" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
             </div>
             <div>
               <div className="font-serif text-slate-900 text-xl mb-1">Redakce Hrací Karty</div>
